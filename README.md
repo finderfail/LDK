@@ -1,3 +1,4 @@
+#Right now only works on macOS (Linux branch will be later)
 Freeware game engine LDK (LE2) proprietary license. If you need access to source code of Lexia Engine 2, contact with me on email: ilya.finderov@icloud.com, with subject [Access to Lexia Engine 2]
 
 With LDK you can:
